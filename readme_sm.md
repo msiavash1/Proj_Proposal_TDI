@@ -220,7 +220,7 @@ For this project, I will treat "user" as "playlist" and "item" as "song" and pla
 ### Model Based
 Matrix factorization can be done using Singular Value Decomposition (SVD). I have extensively used SVD during my PhD to decompose flow structures rank the modes based on their energy content. 
 
-To perform Collaborative Filtering, SVD can be employed to approximate a matrix __X__. The SVD equation is expressed as follows: __X = U × S × V_transpose__
+To perform Collaborative Filtering, SVD can be employed to approximate a matrix __X__. The SVD equation is expressed as follows: __X = U Ã— S Ã— V_transpose__
 
 ![](fig3.png)
 
@@ -230,7 +230,7 @@ __Deep Learning__ can be employed after the latent feature vectors of playlist  
 ![](fig4.png)
 
 ## Conclusion
-I am confident that I could build this model should I be given the opportunity to participate in The Data Incubator program. Following my PhD submission in the next few weeks (mid Aug), I plane to dedicate all my time to improve my machine learning knowledge/skills to be able to complete this project before the completion of the Data Incubator program should I be admitted.
+I am confident that I could build this model should I be given the opportunity to participate in The Data Incubator program. Following my PhD submission in the next few weeks (mid Aug), I plan to dedicate all my time to improve my machine learning knowledge/skills to be able to complete this project before the completion of the Data Incubator program should I be admitted.
 
 
 ## Reference:
